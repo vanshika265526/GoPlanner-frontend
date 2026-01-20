@@ -11,7 +11,7 @@ import { SavedPlans } from './components/SavedPlans';
 import { AboutUs } from './components/AboutUs';
 import { ContactUs } from './components/ContactUs';
 import { generateLocalItinerary } from './services/localItinerary';
-import { samplePlans } from './data/samplePlans';
+import { samplePlans } from './data/samplePlans.js';
 import { AppScreen } from './types';
 import { downloadItineraryPDF } from './services/pdfService';
 
